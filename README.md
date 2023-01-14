@@ -68,5 +68,14 @@ Aprender análisis de ramas, lazos y nodos así como el principio de magnetismo 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+**3.1. CAPÍTULO 11 INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS.**
 
+**3.2. CAPÍTULO 12 CAPACITORES.**
 
+## 4. VIDEO
+
+*Link del video en YouTube*
+
+## 5. CONCLUSIONES
+
+## 6. BIBLIOGRAFÍA
