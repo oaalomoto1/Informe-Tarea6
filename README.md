@@ -4,17 +4,17 @@
 
 **1.1 OBJETIVO GENERAL.**
 
-Aprender análisis de ramas, lazos y nodos así como el principio de magnetismo y electromagnetismo, mediante el uso de mapas conceptuales y el desarrollo de ejercicios planteados en los dos capítulos, para obtener un mayor grado de conocimiento en lo que respecta esta parte de la materia.
+*Conocer la importancia de la introducción a la corritente y al voltaje alterno e implementación de capacitores en circuitos electricos, mediante el uso de mapas conceptuales y el desarrollo de ejercicios planteados en los dos capítulos, para obtener un mayor grado de conocimiento en lo que respecta esta parte de la materia.*
 
 **1.2 OBJETIVOS ESPECÍFICOS.**
 
--Investigar los principales métodos de resolución de circuitos electrónicos.
+*-Indagar la importancia del uso de capacitores en un circuito.*
 
--Identificar las diferencias entre el análisis de ramas, lazos y nodos.
+*-Identificar las el comportamiento de ondas al momento de usar corriente y voltaje alterno.*
 
--Estudiar lo que abarca los temas sobre magnetismo y electromagnetismo.
+*-Aplicar los conocimientos aprendidos en este captitulo para la resolución de ejercicios.*
 
--Aplicar los conocimientos de los métodos de análisis, ramas, lazos y nodos en la resolución de circuitos.
+*-Estudiar la aplicación de capacitores tanto en circuitos paralelos o en serie.* 
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
@@ -271,3 +271,5 @@ Planteamos la siguiente formula.**
 ## 5. CONCLUSIONES
 
 ## 6. BIBLIOGRAFÍA
+
+-Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
