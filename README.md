@@ -258,17 +258,19 @@ Planteamos la siguiente formula.**
 
 ![image](https://user-images.githubusercontent.com/116774906/212769096-55ea25e7-ffbb-4504-ba0a-8667f954b093.png)
 
-
-
-
-
-
-
 ## 4. VIDEO
 
 *Link del video en YouTube*
 
 ## 5. CONCLUSIONES
+
+*-La importancia del uso de capacitores en un circuito resistivo radica en que los circuitos con voltaje o corriente eléctrica con mucho contraflujo, al aplicar un capacitor este actúa como un intermedio que trata nivelarlo, ya que su carga almacena energía sobrante cuando el voltaje aumenta. La energía almacenada en un capacitor se libera al disminuir el voltaje.*
+
+*-El comportamiento de ondas del voltaje se conoce como onda sinusoidal que es una gráfica de la función matemática seno, esta sirve para observar la frecuencia única con una amplitud constante.*
+
+*-La resolución de ejercicios consto en transformaciones de frecuencia y periodo, que son parte fundamental en el uso para comprender el comportamiento de ondas, así mismo el tiempo de cada onda.*
+
+*-Los capacitores se usan con frecuencia en circuitos resistivos para bloquear corriente continua, a la vez que permite el flujo de la corriente alterna CA.*
 
 ## 6. BIBLIOGRAFÍA
 
