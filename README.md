@@ -262,6 +262,8 @@ Planteamos la siguiente formula.**
 
 *Link del video en YouTube*
 
+https://youtu.be/VE8oPH2izqk
+
 ## 5. CONCLUSIONES
 
 *-La importancia del uso de capacitores en un circuito resistivo radica en que los circuitos con voltaje o corriente eléctrica con mucho contraflujo, al aplicar un capacitor este actúa como un intermedio que trata nivelarlo, ya que su carga almacena energía sobrante cuando el voltaje aumenta. La energía almacenada en un capacitor se libera al disminuir el voltaje.*
